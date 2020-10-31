@@ -1,3 +1,12 @@
+/*
+text.txt
+
+This is a long and boring text.
+It makes no sense at all.
+The End.
+
+*/
+
 /* LIST AND COUNT ALL WORDS IN A TEXT FILE */
 const fs = require("fs");
 const path = process.cwd();
